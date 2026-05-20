@@ -1,0 +1,12 @@
+read mode : r 
+write mode : w
+create mode : x
+append mode : a
+read and write mode : r+ 
+write and read mode : w+
+appemd and read mode : a+
+
+read binary mode : rb
+write binary mode : wb
+
+

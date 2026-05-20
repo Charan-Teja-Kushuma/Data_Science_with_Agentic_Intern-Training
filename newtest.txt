@@ -1,0 +1,3 @@
+
+ this is append new line
+ this is write and read file
