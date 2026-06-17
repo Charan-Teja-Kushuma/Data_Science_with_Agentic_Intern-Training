@@ -6,6 +6,30 @@ Analyze monthly products sales
 4.which month highest sales
 5.visualize sales trends
 
+NumPy
+array()
+sum()
+mean()
+max()
+min()
+
+
+Pandas
+read_csv()
+groupby()
+head()
+columns
+info()
+
+
+Matplotlib
+plot()
+bar()
+hist()
+title()
+xlabel()
+ylabel()
+
 """
 
 import pandas as pd
