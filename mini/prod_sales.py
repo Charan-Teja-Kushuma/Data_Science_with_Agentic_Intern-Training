@@ -8,6 +8,8 @@ Analyze monthly products sales
 
 NumPy
 array()
+
+python inbuilt
 sum()
 mean()
 max()
